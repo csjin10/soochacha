@@ -1,26 +1,16 @@
 {
   "files": {
-    "main.css": "/project4/static/css/main.35c11031.css",
-    "main.js": "/project4/static/js/main.e5e44b40.js",
-    "static/js/453.2ea1da6b.chunk.js": "/project4/static/js/453.2ea1da6b.chunk.js",
-    "static/media/slide_img3.jpg": "/project4/static/media/slide_img3.28ec6a6fd3251b26cc3b.jpg",
-    "static/media/slide_img2.jpg": "/project4/static/media/slide_img2.a8e9e78712085a389add.jpg",
-    "static/media/slide_img3_B.jpg": "/project4/static/media/slide_img3_B.eb566538b57687da0f82.jpg",
-    "static/media/slide_img1.jpg": "/project4/static/media/slide_img1.b74a4b9a092af2ed8a18.jpg",
-    "static/media/slide_img1_B.jpg": "/project4/static/media/slide_img1_B.b50c1a8e2ddfd2904fca.jpg",
-    "static/media/slide_img2_B.jpg": "/project4/static/media/slide_img2_B.6cfa3b44f25759c703a1.jpg",
-    "static/media/ohubancha-main-banner.jpg": "/project4/static/media/ohubancha-main-banner.b4d0b45ea06f227f4599.jpg",
-    "index.html": "/project4/index.html",
-    "static/media/plus-solid.svg": "/project4/static/media/plus-solid.02d32f1a0a805169615e.svg",
-    "static/media/chevron-down-solid.svg": "/project4/static/media/chevron-down-solid.f13ecb034f3ca9322953.svg",
-    "static/media/minus-solid.svg": "/project4/static/media/minus-solid.98935fa38e8a88fcc3c2.svg",
-    "static/media/close-icon.svg": "/project4/static/media/close-icon.c3dd03cefb4109e5a2a0.svg",
-    "main.35c11031.css.map": "/project4/static/css/main.35c11031.css.map",
-    "main.e5e44b40.js.map": "/project4/static/js/main.e5e44b40.js.map",
-    "453.2ea1da6b.chunk.js.map": "/project4/static/js/453.2ea1da6b.chunk.js.map"
+    "main.css": "/soochacha/static/css/main.e84ad85c.css",
+    "main.js": "/soochacha/static/js/main.7fd8121a.js",
+    "static/js/453.0a361449.chunk.js": "/soochacha/static/js/453.0a361449.chunk.js",
+    "static/media/map.png": "/soochacha/static/media/map.678e51f634293d062726.png",
+    "index.html": "/soochacha/index.html",
+    "main.e84ad85c.css.map": "/soochacha/static/css/main.e84ad85c.css.map",
+    "main.7fd8121a.js.map": "/soochacha/static/js/main.7fd8121a.js.map",
+    "453.0a361449.chunk.js.map": "/soochacha/static/js/453.0a361449.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35c11031.css",
-    "static/js/main.e5e44b40.js"
+    "static/css/main.e84ad85c.css",
+    "static/js/main.7fd8121a.js"
   ]
 }
